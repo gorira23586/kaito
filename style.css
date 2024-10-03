@@ -1,0 +1,52 @@
+
+header{
+  background-color: #f66;
+}
+main{
+  background-color: #9ff;
+  overflow: auto;
+}
+footer{
+  background-color: rgb(0, 168, 70);
+  color: #e7e7e7;
+}
+.gazou {
+  height: 300px;
+  width: 90%;
+}
+.gazou-no-oya{
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+section{
+  clear: both;
+}
+
+#ryouri{
+  width: 100%;
+  background-color: #74cfae;
+  text-align: center;
+  font-size: 70px;
+  color: #eeeeee;
+  padding: 100px;
+  padding: 70px 0px;
+}
+#gemu{
+  width: 100%;
+  background-color: #41819b;
+  text-align: center;
+  font-size: 70px;
+  color: #eeeeee;
+  padding: 100px;
+  padding: 70px 0px;
+}
+#anime{
+  width: 100%;
+  background-color: #fff598;
+  text-align: center;
+  font-size: 70px;
+  color: #696969;
+  padding: 100px;
+  padding: 70px 0px;
+}
